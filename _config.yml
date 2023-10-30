@@ -1,12 +1,12 @@
-title: Bailey Collie # your name (or website title) here
+stitle: Bailey Collie # your name (or website title) here
 logo: "/images/IMG_20220816_073807_180-2.jpg" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
   2nd Year Data Science 
   Curtin University,
   Perth, Western Australia
-  Second description 
   <br><br>
+
+  Pairing curiosity with technology to achieve creative outcomes.
   <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
